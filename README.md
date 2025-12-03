@@ -113,8 +113,8 @@ The **Multi-Agents AI System from Scratch** is a Python-based application levera
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AIAnytime/Multi-Agents-System-from-Scratch.git
-   cd Multi-Agents-System-from-Scratch
+   git clone https://github.com/mrityunjay5004/collaborative-medical-ai-system
+   cd collaborative-medical-ai-system
    ```
 
 2. **Create a Virtual Environment**
@@ -244,7 +244,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- [OpenAI](https://openai.com/) for providing the groq model.
+- [OpenAI](https://groq.com/) for providing the groq model.
 - [Streamlit](https://streamlit.io/) for the web application framework.
 - [Loguru](https://github.com/Delgan/loguru) for the logging library.
 - Inspired by collaborative multi-agent system architectures and prompt engineering techniques like Chain-of-Thought (CoT) and ReAct.
