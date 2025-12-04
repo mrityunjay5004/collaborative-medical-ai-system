@@ -2,6 +2,14 @@
 
 ![AI Agents from Scratch](logo.png)
 
+
+
+
+🔗 **Live App:** https://collaborative-medical-ai-system-hfxlavj97ktftsbxwbwpmv.streamlit.app/
+
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
