@@ -252,7 +252,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- [OpenAI](https://groq.com/) for providing the groq model.
+- [Groq](https://groq.com/) for providing the groq model.
 - [Streamlit](https://streamlit.io/) for the web application framework.
 - [Loguru](https://github.com/Delgan/loguru) for the logging library.
 - Inspired by collaborative multi-agent system architectures and prompt engineering techniques like Chain-of-Thought (CoT) and ReAct.
